@@ -1,4 +1,3 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pavan Kumar Vadagam</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width=400 src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
